@@ -1,0 +1,6 @@
+{
+  "name": "Vitalis IMC - Calculadora de Salud",
+  "description": "Calculadora de Índice de Masa Corporal (IMC) con diagnóstico biométrico según estándares de la OMS, consejos de nutrición y registro histórico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
